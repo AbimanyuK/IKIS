@@ -30,7 +30,7 @@ function ScrollToSection() {
 function App() {
   return (
     <Router>
-      <div>
+      <div className="container">
         <Header />
         <ScrollToSection />
         <Routes>
