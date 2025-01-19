@@ -1,0 +1,15 @@
+.faq-container {
+    text-align: center; 
+    padding:70px
+  }
+
+  .faq-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    display:center;
+  }
+
+  .faq-content p {
+    font-size: 1.6rem;
+    margin: 15px ;
+  }

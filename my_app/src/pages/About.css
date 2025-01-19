@@ -1,0 +1,41 @@
+.about-container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+    padding:70px
+  }
+
+  .about-content {
+    flex: 1; 
+    max-width: 75%;
+  }
+
+  .about-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    display:center;
+  }
+
+  .about-content p {
+    font-size: 1.8rem;
+    line-height: 1.5; 
+    margin-bottom: 50px;
+  }
+
+  .about__images img {
+    max-width: 25%;
+    height: auto; 
+  }
+
+  .about__images {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .about__image {
+    width: 5px;
+    height: 5px;
+  }
